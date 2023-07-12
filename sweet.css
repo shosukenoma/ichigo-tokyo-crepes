@@ -75,6 +75,14 @@ h1 {
   text-transform: capitalize
 }
 
+.item--4 .item-title {
+  font-size: 25px;
+}
+
+.item--4 .item-price {
+  font-size: 26px;
+}
+
 .item-price {
   font-size: 28px;
   color: #e64980;
