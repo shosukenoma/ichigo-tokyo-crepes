@@ -48,7 +48,7 @@
 
 
 
-# 4. Design and Build Website
+# 4. Designing and Building the Website
 - Designing in the browser (using HTML and CSS)
 - Building the layout and components
 - Creating the design based on Website Personality, Design Guideline, and inspiration.
